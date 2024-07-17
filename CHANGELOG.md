@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v10.3.1...10.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/version0.0.1...main)
+
+## [version0.0.1](https://github.com/laravel/laravel/compare/v10.3.1...version0.0.1) - 2024-07-04
+
+Primera version del proyecto Laravel, utilizado para el reporte GitHub.
 
 ## [v10.3.1](https://github.com/laravel/laravel/compare/v10.3.0...v10.3.1) - 2023-12-23
 
